@@ -1,0 +1,1 @@
+Where I find discrepancies between the official AWS documentation and my investigations

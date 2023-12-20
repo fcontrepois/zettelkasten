@@ -1,0 +1,13 @@
+#permanentnote
+    - source: [[my brain]]
+    - keywords: 
+        - [[how to be a better leader]]
+        - [[topic - leading and managing]]
+    - relevant notes
+        - [[zt - care is a core competency of any relationship]]
+        - [[zt - candour is a powerful word]]
+        - [[zt - trust is a must for long term relationship]]
+        - [[zt - intent based leadership]]
+        - 
+    - notes
+        - Real delegation is when the leader is redundant for tactical issues yet needed for strategic one (otherwise he/she is only redundant)

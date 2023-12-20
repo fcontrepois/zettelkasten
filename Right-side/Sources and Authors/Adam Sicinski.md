@@ -1,0 +1,1 @@
+#author of [[blog - How to Solve Problems Using the Six Thinking Hats Method]]

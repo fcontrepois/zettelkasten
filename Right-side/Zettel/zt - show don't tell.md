@@ -1,0 +1,18 @@
+#permanentnote
+- source: [[book - The Trusted Advisor]]
+- keywords:
+		- [[topic - communicate effectively]]
+		- [[topic - negotiation and sales]]
+        - [[topic - mentoring, advising and coaching]]
+        - [[how to be a better seller]]
+ 		- [[how to be a better advisor]]
+ 		- [[zt - tips to write better emails]]
+- relevant notes
+        - [[zt - all customers want someone that takes away their worries and problems]] and if simply be being there you are already making it happen then you are on the right track. Remember [[zt - it is all about people - humans]]
+        - [[zt - on being a good advisor]] a recommendation from the [[book - The Trusted Advisor]] book is to avoid slides and show work done. 
+        - [[zt - feedback is always welcome]] by showing you are collecting feedback from the start
+        - [[how to do better meetings]]  - in a meeting show 3 things your customer should absolutely beleive about you and SHOW them
+ - notes
+	 - Instead of creating a slide deck to show how it feels to work with you, do real work, useful to the audience.
+		 - When asked for a presentation, provide work-done.
+	- Prepare and have 2 or 3 things that you'd like to talk. Not questions, but topics. 

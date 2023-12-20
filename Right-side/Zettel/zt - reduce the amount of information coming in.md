@@ -1,0 +1,7 @@
+- #permanentnote
+- source: [[book - getting things done (GTD)]] + [[my brain]]
+- keywords: [[topic - personal efficiency]], [[topic - information management]], #howtoimplementgtd [[how to implement gtd]]
+- relevant notes:
+	- inboxes, weekly review
+- notes
+	- Limit the quantity of inboxes to look for. Make sure that each idea or potential action goes ASAP into a limited amount of inboxes. __Final__ inboxes are the one we review during the weekly review

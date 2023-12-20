@@ -1,0 +1,3 @@
+#author of [[book - Do the Work - Overcome Resistance and Get Out of Your Own Way]]
+
+Steven Pressfield is the author of The Legend of Bagger Vance, Gates of Fire, Tides of War, Last of the Amazons, Virtues of War, The Afghan Campaign, Killing Rommel, The Profession, The Lion's Gate, The War of Art, Turning Pro, Do the Work, The Warrior Ethos, The Authentic Swing, An American Jew, Nobody Wants to Read Your Sh*t, The Knowledge, and The Artist's Journey. - [Amazon](https://www.amazon.com/Steven-Pressfield/e/B000AQ8R8Q/)

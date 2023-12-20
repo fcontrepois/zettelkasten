@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "fbcbb28e13011ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae446fb3a4a87cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08cae8a396c05a9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3afd26b129f1786",
+    "type": "split",
+    "children": [
+      {
+        "id": "365591faecae938d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74bd45abe67bcbc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "715e584b9b984633",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "listen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2677f8ac6cfd768e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e01236dfcf479ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b590671116f4e5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6222410201916e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93ab8a21ac673684",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c87c2b1c480cb3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fed967478f2f6436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d5fde2faeffc1ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "74bd45abe67bcbc3",
+  "lastOpenFiles": [
+    "Start here.md",
+    "vega-lite.md",
+    "Left-side/FinOps/Azure/Azure virtual machine sizes naming conventions.md",
+    "Left-side/FinOps/AWS/FinOps – AWS – Index.md",
+    "Left-side/Data manipulation/Observable Plot.md",
+    "Left-side/FinOps/Azure",
+    "Left-side/Data manipulation/Observable - Index.md",
+    "Right-side/Sources and Authors/book - essentialism the disciplined pursuit of less.md",
+    "Right-side/Zettel/zt - how to change a habit.md",
+    "Right-side/Zettel/zt - the habit loop.md",
+    "Right-side/Zettel/zt - sometimes people just want to be listen to.md",
+    "Right-side/Zettel/zt - ask a lot, shut up and listen.md",
+    "Right-side/Topics/topic - mentoring, advising and coaching.md",
+    "Right-side/Zettel/zt - grieving happens often.md",
+    "Right-side/Sources and Authors/book - the power of habit.md",
+    "Right-side/Zettel/zt - creating groups that care.md",
+    "Right-side/Zettel/zt - communication techniques.md",
+    "Right-side/Topics/topic - negotiation and sales.md",
+    "Right-side/Zettel/zt - making the novel seem and feel familiar.md",
+    "Right-side/Zettel/zt - never do something for one reason only.md",
+    "Right-side/Zettel/zt - writing style guide.md",
+    "attachement/University of Oxford Style Guide.pdf",
+    "Right-side/Zettel/zt - managing unhappy customers with the latte method.md",
+    "Right-side/Zettel/zt - using habits to create a culture.md",
+    "Right-side/How to/How to build a culture.md",
+    "Right-side/How to/how to be a better communicator.md",
+    "Other/Latest articles created or updated.md",
+    "Other/Keep updated.md",
+    "attachement/Google Cloud VM families.png",
+    "attachement/42938004_s.jpg",
+    "attachement/Product-Page-Diagram_AWS-Application-Discovery-Service 1.9d81c27f3de50349a9406b8def61b8eb914e2930.png",
+    "attachement/c02-10.png",
+    "attachement/c02-7.png",
+    "Left-side/Certifications/AWS - Solution Architect Professional",
+    "attachement/Brain Graph v2.png",
+    "Left-side/FinOps/Google Cloud",
+    "Left-side/Data manipulation",
+    "attachement/options to move data in google cloud.png",
+    "attachement/Encryption keys options in Google Cloud.png",
+    "attachement/Identity Aware Proxy flow 2.png",
+    "attachement/Identity Aware Proxy flow 1.png",
+    "Left-side/Certifications/Google - Professional Cloud Architect",
+    "Left-side/Certifications",
+    "Other/Updates",
+    "Left-side/FinOps/AWS/CUR/Connecting the CUR fields",
+    "Left-side/FinOps/AWS/CUR/CUR other stuff"
+  ]
+}

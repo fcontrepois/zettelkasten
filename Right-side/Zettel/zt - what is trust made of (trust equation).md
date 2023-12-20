@@ -1,0 +1,21 @@
+#permanentnote
+- Source: [[book - The Trusted Advisor]]
+- Topics:
+  - [[topic - leading and managing]]
+  - [[topic - mentoring, advising and coaching]]
+  - [[topic - having a great relationship]]
+- How to
+  -  [[how to be a better leader]]
+  -  [[how to be a better negotiator]] 
+  -  [[how to be a better advisor]] 
+- Relevant notes
+  - [[zt - trust is a must for long term relationship]]
+- Notes
+  - In the [[book - The Trusted Advisor]] there is a trust equation that goes like this:
+    - $$Trustworthiness = \frac{Credibility + Reliability + Intimacy}{Self-orientation}$$
+  - Credibility is about diplomas and honesty
+  - Reliability is about action correlated with concistency. 
+                - Under-promise, over deliver
+  - Intimacy is about emotional closeness with the issue at hand. Creating intimacy requires courage. [[zt - go first]]
+  - Self-orientation is the negative aspect of the equation and is about a desire by the advisor of being seen on top of things, to just to conclusions or the desire to be right.
+  - Self-orientation is visible when customers cannot finish their sentences, filling empty spaces, name dropping of other clients, being too quick to answer. 

@@ -1,0 +1,11 @@
+#book  #referencenote
+- The five dysfunctions of a team is a book to create efficient executive teams (and other teams).
+- Author: [[Patrick Lencioni]]
+- Source: 7
+- Wikipedia: https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team
+- **The summary** all good teams are based on 5 elements that stack. 
+    - **Trust **- is at the bottom and is needed to allow
+    - **Conflict **- the when ideological (i.e. against ideas, not people) allows
+    - **Commitment **- when a team is in the end aligned with the decisions allowing
+    - **Accountability **- when everyone can hold the other accountable in a __good way__ allowing achieving
+    - **Results** - that are the end-goal of a team

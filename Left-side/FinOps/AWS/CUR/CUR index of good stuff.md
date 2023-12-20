@@ -1,0 +1,3 @@
+- https://aws.amazon.com/blogs/apn/creating-an-equitable-enterprise-aws-chargeback-model-using-cloudhealth/
+- http://www.cloudbombe.com/blog/the-aws-cost-and-usage-report-cur/
+- https://docs.aws.amazon.com/cur/latest/userguide/samples/Column_Attribute_Service.zip
