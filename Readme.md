@@ -1,18 +1,11 @@
----
-publish: true
-tags:
-  - index
-created: 2023-12-20
-updated: 2023-12-20
----
 
-# Welcome to my Digital Garden
+# Welcome to the backup of my [Digital Garden](https://zt.frankcontrepois.com)
 
 ## Welcome
 
-Hello and welcome, I am [[About me - index|Frank Contrepois]], and this is my Digital Garden, where I learn in public. This is where I store or index new learning and discoveries,  connecting them with my current knowledge.
+Hello and welcome, I am [Frank Contrepois](https://zt.frankcontrepois.com/About+me/About+me+-+index), and this is my Digital Garden, where I learn in public. This is where I store or index new learning and discoveries,  connecting them with my current knowledge.
 
-![[42938004_s.jpg]]
+![42938004_s.jpg](https://publish-01.obsidian.md/access/42fbbde8a5667efd1a2ee23cc5df77df/attachement/42938004_s.jpg)
 
 [[You should have a digital garden]]
 
