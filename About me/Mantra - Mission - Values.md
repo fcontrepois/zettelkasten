@@ -1,8 +1,8 @@
 ---
 tags: aboutme
 publish: true
-created: 2022-12-20
-updated: 2022-12-20
+created: 2021-11-06
+updated: 2023-12-20
 ---
 
 # Mantra
@@ -17,5 +17,5 @@ new achievements and continuous improvements.
 **Honesty** - I believe in what I say
 **Improvement** - To evolve, survive and be a better person
 **Sharing** - As in teamwork
-**Open minded** - I understand others views
+**Open minded** - I understand other's views
 **Fairness** - I believe in the brain and actions as the way to value people

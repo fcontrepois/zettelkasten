@@ -1,10 +1,9 @@
 ---
 publish: true
-created: 2022-12-20
-updated: 2022-12-20
+created: 2021-11-09
+updated: 2023-12-20
 ---
-
-# What is a digital garden ?
+# What is a digital garden?
 
 #permanentnote
 

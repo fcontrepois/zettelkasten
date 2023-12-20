@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fae446fb3a4a87cf",
+        "id": "fb10398271c23951",
         "type": "tabs",
         "children": [
           {
-            "id": "08cae8a396c05a9f",
+            "id": "d9927d1adf3875a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,13 +130,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "641e56cdc2169d63",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +156,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "74bd45abe67bcbc3",
+  "active": "d9927d1adf3875a4",
   "lastOpenFiles": [
+    "About me/cover letter.md",
+    "About me/About me - index.md",
+    "About me/Recent creations.md",
+    "About me/Mantra - Mission - Values.md",
+    "Other/What is a digital garden.md",
+    "Other/Latest articles created or updated.md",
     "Start here.md",
+    "Readme.md",
+    "Right-side/Topics/topic - my core beliefs.md",
     "vega-lite.md",
     "Left-side/FinOps/Azure/Azure virtual machine sizes naming conventions.md",
     "Left-side/FinOps/AWS/FinOps – AWS – Index.md",
@@ -169,15 +185,7 @@
     "Right-side/Zettel/zt - communication techniques.md",
     "Right-side/Topics/topic - negotiation and sales.md",
     "Right-side/Zettel/zt - making the novel seem and feel familiar.md",
-    "Right-side/Zettel/zt - never do something for one reason only.md",
-    "Right-side/Zettel/zt - writing style guide.md",
     "attachement/University of Oxford Style Guide.pdf",
-    "Right-side/Zettel/zt - managing unhappy customers with the latte method.md",
-    "Right-side/Zettel/zt - using habits to create a culture.md",
-    "Right-side/How to/How to build a culture.md",
-    "Right-side/How to/how to be a better communicator.md",
-    "Other/Latest articles created or updated.md",
-    "Other/Keep updated.md",
     "attachement/Google Cloud VM families.png",
     "attachement/42938004_s.jpg",
     "attachement/Product-Page-Diagram_AWS-Application-Discovery-Service 1.9d81c27f3de50349a9406b8def61b8eb914e2930.png",
