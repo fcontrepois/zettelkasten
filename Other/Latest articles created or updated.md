@@ -2,10 +2,10 @@
 created: 2021-11-04
 updated: 2023-12-20
 ---
+- 2023-12-20 at 18h48 · [[Readme]]
 - 2023-12-20 at 17h51 · [[Mantra - Mission - Values]]
 - 2023-12-20 at 17h50 · [[What is a digital garden]]
 - 2023-12-20 at 17h49 · [[Start here]]
-- 2023-12-20 at 17h49 · [[Readme]]
 - 2023-12-20 at 17h46 · [[topic - my core beliefs]]
 - 2023-12-20 at 17h18 · [[zt - flip the coin]]
 - 2023-12-20 at 17h18 · [[zt - giving an A]]

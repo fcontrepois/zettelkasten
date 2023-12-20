@@ -1,3 +1,7 @@
+---
+created: 2023-12-20
+updated: 2023-12-20
+---
 
 # Welcome to the backup of my [Digital Garden](https://zt.frankcontrepois.com)
 
