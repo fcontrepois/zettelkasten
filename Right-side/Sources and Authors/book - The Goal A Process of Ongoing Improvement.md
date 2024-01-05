@@ -1,8 +1,8 @@
 ---
-date updated: '2021-07-23T09:48:41+02:00'
-
+date updated: 2021-07-23T09:48:41+02:00
+created: 2021-07-23
+updated: 2023-12-20
 ---
-
 # The Goal: A Process of Ongoing Improvement
 
 #book #referencenote
@@ -21,9 +21,6 @@ A great book about supply chain
 
 # The goal
 #book #referencenote
-
-# Metadata 
-
 
 # Summary
 

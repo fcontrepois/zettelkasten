@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"updated\": not 202",
+                "query": "[\"updated\": 2021]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Readme.md"
+                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md"
               }
             }
           }
@@ -168,8 +168,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "715e584b9b984633",
+  "active": "d9927d1adf3875a4",
   "lastOpenFiles": [
+    "Right-side/Zettel/zt - it is all invented.md",
+    "Right-side/Zettel/zt - communication techniques.md",
+    "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
+    "Right-side/Zettel/zt - care is a core competency of any relationship.md",
+    "Readme.md",
     "About me/cover letter.md",
     "About me/About me - index.md",
     "About me/Recent creations.md",
@@ -177,7 +182,6 @@
     "Other/What is a digital garden.md",
     "Other/Latest articles created or updated.md",
     "Start here.md",
-    "Readme.md",
     "Right-side/Topics/topic - my core beliefs.md",
     "vega-lite.md",
     "Left-side/FinOps/Azure/Azure virtual machine sizes naming conventions.md",
@@ -193,10 +197,6 @@
     "Right-side/Topics/topic - mentoring, advising and coaching.md",
     "Right-side/Zettel/zt - grieving happens often.md",
     "Right-side/Sources and Authors/book - the power of habit.md",
-    "Right-side/Zettel/zt - creating groups that care.md",
-    "Right-side/Zettel/zt - communication techniques.md",
-    "Right-side/Topics/topic - negotiation and sales.md",
-    "Right-side/Zettel/zt - making the novel seem and feel familiar.md",
     "attachement/University of Oxford Style Guide.pdf",
     "attachement/Google Cloud VM families.png",
     "attachement/42938004_s.jpg",

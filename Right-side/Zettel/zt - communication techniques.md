@@ -1,11 +1,9 @@
 ---
-date updated: '2021-07-23T09:41:56+02:00'
-
-created: 2022-05-14
-updated: 2022-05-14
+date updated: 2021-07-23T09:41:56+02:00
+created: 2021-06-05
+updated: 2023-12-20
 ---
-
-# communication techniques
+# Communication techniques
 
 #permanentnote
 
