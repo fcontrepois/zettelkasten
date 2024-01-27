@@ -1,12 +1,11 @@
 ---
 created: 2023-10-01
-updated: 2023-10-02
+updated: 2023-12-21
 publish: true
 ---
 #observable
 # Observable Plot
 [Main Plot page](https://observablehq.com/plot/)
-
 
 This is the summary page of my learnings of Observable Plot, a Javascript library to generate beautiful graphs. 
 

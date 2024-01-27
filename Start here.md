@@ -2,7 +2,7 @@
 publish: true
 tags:
   - index
-updated: 2023-12-20
+updated: 2024-01-19
 created: 2021-10-27
 ---
 
@@ -24,22 +24,25 @@ As a real brain, there are two sides to it: the left side, also known as the [[L
 Another way to navigate my brain is to pick a topic or a how-to. A topic is an area of interest, and a how-to is one or more notes that tackle a specific area of improvement. 
 
 ## Topics
-- [[topic - my core beliefs]]
-- [[topic - live a great life]]
-- [[topic - having a great relationship]]
-- [[topic - communicate effectively]]
-- [[topic - learning]]
-- [[topic - personal efficiency]]
-- [[topic - information management]]
-- [[topic - leading and managing]]
-	- [[zt - the concept of strategy]] as a cardinal note
-- [[topic - negotiation and sales]]
-- [[topic - mentoring, advising and coaching]]
-- [[topic - learning to learn]]
-- [[topic - simplification]]
-- [[topic - mental models]]
-	- [[how to make better decisions]]
-- [[FinOps - index|FinOps]]
+- [topic - forecasting](app://obsidian.md/Right-side/Topics/topic%20-%20forecasting.md)
+- [topic - finops](app://obsidian.md/Right-side/Topics/topic%20-%20finops.md)
+- [topic - sport](app://obsidian.md/Right-side/Topics/topic%20-%20sport.md)
+- [topic - simplification](app://obsidian.md/Right-side/Topics/topic%20-%20simplification.md)
+- [topic - role playing games](app://obsidian.md/Right-side/Topics/topic%20-%20role%20playing%20games.md)
+- [topic - politics and power](app://obsidian.md/Right-side/Topics/topic%20-%20politics%20and%20power.md)
+- [topic - personal efficiency](app://obsidian.md/Right-side/Topics/topic%20-%20personal%20efficiency.md)
+- [topic - negotiation and sales](app://obsidian.md/Right-side/Topics/topic%20-%20negotiation%20and%20sales.md)
+- [topic - my core beliefs](app://obsidian.md/Right-side/Topics/topic%20-%20my%20core%20beliefs.md)
+- [topic - mentoring, advising and coaching](app://obsidian.md/Right-side/Topics/topic%20-%20mentoring,%20advising%20and%20coaching.md)
+- [topic - live a great life](app://obsidian.md/Right-side/Topics/topic%20-%20live%20a%20great%20life.md)
+- [topic - mental models](app://obsidian.md/Right-side/Topics/topic%20-%20mental%20models.md)
+- [topic - learning](app://obsidian.md/Right-side/Topics/topic%20-%20learning.md)
+- [topic - learning to learn](app://obsidian.md/Right-side/Topics/topic%20-%20learning%20to%20learn.md)
+- [topic - leading and managing](app://obsidian.md/Right-side/Topics/topic%20-%20leading%20and%20managing.md)
+- [topic - innovation](app://obsidian.md/Right-side/Topics/topic%20-%20innovation.md)
+- [topic - information management](app://obsidian.md/Right-side/Topics/topic%20-%20information%20management.md)
+- [topic - having a great relationship](app://obsidian.md/Right-side/Topics/topic%20-%20having%20a%20great%20relationship.md)
+- [topic - communicate effectively](app://obsidian.md/Right-side/Topics/topic%20-%20communicate%20effectively.md)
 	
 ## How to
 ###  Never stop improving

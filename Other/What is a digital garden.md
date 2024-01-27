@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2021-11-09
-updated: 2023-12-20
+updated: 2023-12-21
 ---
 # What is a digital garden?
 

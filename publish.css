@@ -1,0 +1,20 @@
+.markdown-preview-view img {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.markdown-preview-view img {
+  border: 0;
+  max-width: 100%;
+  display: block;
+  margin: inherit auto;
+}
+
+.markdown-preview-view img.emoji {
+  display: inline;
+  margin: 0;
+}
+
+.page-header{
+  display: none;
+}

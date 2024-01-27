@@ -1,8 +1,12 @@
 ---
-last-review: 2021-11-21
+tags:
+  - index
+  - finops
 publish: true
-tags: index, finops
---- 
+created: 2021-11-06
+updated: 2024-01-19
+---
+
 
 Hello, I'm Frank Contrepois; welcome to the FinOps part of my second-brain where I will report on my learning and knowledge around Finance and Cloud. 
 

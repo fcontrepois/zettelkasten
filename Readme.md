@@ -1,13 +1,13 @@
 ---
 created: 2023-12-20
-updated: 2023-12-20
+updated: 2024-01-24
+publish: false
 ---
-
 # Welcome to the backup of my [Digital Garden](https://zt.frankcontrepois.com)
 
 ## Welcome
 
-Hello and welcome, I am [Frank Contrepois](https://zt.frankcontrepois.com/About+me/About+me+-+index), and this is my Digital Garden, where I learn in public. This is where I store or index new learning and discoveries,  connecting them with my current knowledge.
+Hello and welcome, I am [Frank Contrepois](https://zt.frankcontrepois.com/About+me/About+me+-+index), and this is my Digital Garden where I learn in public. This is where I store or index new learning and discoveries,  connecting them with my current knowledge.
 
 ![42938004_s.jpg](https://publish-01.obsidian.md/access/42fbbde8a5667efd1a2ee23cc5df77df/attachement/42938004_s.jpg)
 
@@ -17,7 +17,6 @@ Hello and welcome, I am [Frank Contrepois](https://zt.frankcontrepois.com/About+
 As a real brain, there are two sides to it: the left side, also known as the [digital-brain](https://zt.frankcontrepois.com/Left-side/Left+side+of+the+brain+index), is very logical and structured, and the right side, the [creative-brain](https://zt.frankcontrepois.com/Right-side/Right+side+of+the+brain+index), filled ideas, lessons learned, and mental models.
 
 Another way to navigate my brain is to pick a topic or a how-to. A topic is an area of interest, and a how-to is one or more notes that tackle a specific area of improvement. 
-
 ## Topics
 -   [topic - my core beliefs](https://zt.frankcontrepois.com/Right-side/Topics/topic+-+my+core+beliefs)
 -   [topic - live a great life](https://zt.frankcontrepois.com/Right-side/Topics/topic+-+live+a+great+life)

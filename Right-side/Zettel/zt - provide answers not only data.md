@@ -1,9 +1,13 @@
+---
+created: 2020-09-16
+updated: 2024-01-19
+---
 # Provide answers not only data
 
 #permanentnote
 
 ## Source
-- [[my brain]] and work with [[customer operations]]
+- [[my brain]] and work with [[SB customer operations]]
 
 ## Keywords (topics and howto)
 - [[topic - leading and managing]]

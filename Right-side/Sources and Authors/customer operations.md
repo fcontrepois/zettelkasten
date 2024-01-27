@@ -1,1 +1,0 @@
-My team at Strategic Blue in 2020 and 2021

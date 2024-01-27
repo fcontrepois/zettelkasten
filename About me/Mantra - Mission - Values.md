@@ -2,7 +2,7 @@
 tags: aboutme
 publish: true
 created: 2021-11-06
-updated: 2023-12-20
+updated: 2023-12-21
 ---
 
 # Mantra

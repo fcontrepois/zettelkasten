@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb10398271c23951",
+        "id": "fa62d80568ab7f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "d9927d1adf3875a4",
+            "id": "fb2284e6f9a817de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
+                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"updated\": 2021]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,9 +65,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "97fb766508e59a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Right-side/Sources and Authors/book - the dictator's handbook.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
+                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
+                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md"
+                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md"
               }
             }
           },
@@ -137,7 +149,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -147,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md"
+                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md"
               }
             }
           }
@@ -168,53 +182,53 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d9927d1adf3875a4",
+  "active": "fb2284e6f9a817de",
   "lastOpenFiles": [
-    "Right-side/Zettel/zt - it is all invented.md",
-    "Right-side/Zettel/zt - communication techniques.md",
-    "Right-side/Sources and Authors/book - The Goal A Process of Ongoing Improvement.md",
-    "Right-side/Zettel/zt - care is a core competency of any relationship.md",
-    "Readme.md",
-    "About me/cover letter.md",
-    "About me/About me - index.md",
-    "About me/Recent creations.md",
     "About me/Mantra - Mission - Values.md",
-    "Other/What is a digital garden.md",
-    "Other/Latest articles created or updated.md",
-    "Start here.md",
-    "Right-side/Topics/topic - my core beliefs.md",
-    "vega-lite.md",
-    "Left-side/FinOps/Azure/Azure virtual machine sizes naming conventions.md",
-    "Left-side/FinOps/AWS/FinOps – AWS – Index.md",
-    "Left-side/Data manipulation/Observable Plot.md",
-    "Left-side/FinOps/Azure",
-    "Left-side/Data manipulation/Observable - Index.md",
-    "Right-side/Sources and Authors/book - essentialism the disciplined pursuit of less.md",
-    "Right-side/Zettel/zt - how to change a habit.md",
-    "Right-side/Zettel/zt - the habit loop.md",
-    "Right-side/Zettel/zt - sometimes people just want to be listen to.md",
-    "Right-side/Zettel/zt - ask a lot, shut up and listen.md",
-    "Right-side/Topics/topic - mentoring, advising and coaching.md",
-    "Right-side/Zettel/zt - grieving happens often.md",
-    "Right-side/Sources and Authors/book - the power of habit.md",
-    "attachement/University of Oxford Style Guide.pdf",
-    "attachement/Google Cloud VM families.png",
+    "Left-side/Certifications/AWS Database Specialist preparation notes.md",
+    "Right-side/Zettel/zt - a leader s message.md",
+    "Other/Updates/Announcements.md",
+    "Other/Updates/Recent creations.md",
+    "About me/Recent creations.md",
+    "About me/About me - index.md",
+    "attachement/amortisation and non-amortisation graph.png",
     "attachement/42938004_s.jpg",
-    "attachement/Product-Page-Diagram_AWS-Application-Discovery-Service 1.9d81c27f3de50349a9406b8def61b8eb914e2930.png",
-    "attachement/c02-10.png",
-    "attachement/c02-7.png",
-    "Left-side/Certifications/AWS - Solution Architect Professional",
-    "attachement/Brain Graph v2.png",
-    "Left-side/FinOps/Google Cloud",
-    "Left-side/Data manipulation",
-    "attachement/options to move data in google cloud.png",
-    "attachement/Encryption keys options in Google Cloud.png",
-    "attachement/Identity Aware Proxy flow 2.png",
-    "attachement/Identity Aware Proxy flow 1.png",
-    "Left-side/Certifications/Google - Professional Cloud Architect",
-    "Left-side/Certifications",
-    "Other/Updates",
-    "Left-side/FinOps/AWS/CUR/Connecting the CUR fields",
-    "Left-side/FinOps/AWS/CUR/CUR other stuff"
+    "attachement/36171465_s.jpg",
+    "Readme.md",
+    "Start here.md",
+    "Right-side/Right side of the brain index.md",
+    "Other/Strategic Blue.md",
+    "Other/What is a digital garden.md",
+    "Other/You should have a digital garden.md",
+    "Other/Latest articles created or updated.md",
+    "Other/Do you want to start your own Zettelkasten.md",
+    "Other/Keep updated.md",
+    "Right-side/Sources and Authors/book - The chimp paradox.md",
+    "Right-side/Zettel/zt - how to check if you really understand a topic.md",
+    "Right-side/Sources and Authors/Dr Steven Peters.md",
+    "Right-side/Zettel/zt - we live in a world of fear for survival.md",
+    "Right-side/Zettel/zt - be proactive.md",
+    "Left-side/FinOps/AWS/Pricing/AWS Pricing API - study.md",
+    "Right-side/Sources and Authors/Dr. Steve Peters.md",
+    "Right-side/Topics/Topics - Index.md",
+    "Right-side/Sources and Authors/book - superforecasting - the art and science of prediction.md",
+    "Right-side/Zettel/zt - forecasts are not checked enough.md",
+    "attachement/lamp only black background3.png",
+    "attachement/favicon-32.png",
+    "publish.js",
+    "publish copy.css",
+    "publish.css",
+    "favicon.ico",
+    "attachement/WardleyMaps-SimonWardley.mobi",
+    "attachement/WardleyMaps-SimonWardley.epub",
+    "attachement/Are AWS prices going up.png",
+    "Are AWS prices going up.svg",
+    "Left-side/Obsidian",
+    "Left-side/Mechanical Keyboard",
+    "Blog",
+    "attachement/IMG_4108.png",
+    "attachement/DungeonWorld_color.pdf",
+    "attachement/IMG_4013.jpeg",
+    "attachement/IMG_4017.jpeg"
   ]
 }

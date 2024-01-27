@@ -1,4 +1,16 @@
-#book  #referencenote
-- A book that summarise [[book - Think fast and slow]] with a great analogy
-- Author: [[Dr. Steve Peters]]
-- Summary: A great book that explains in simpler terms (and fun drawings) how our brain works and how to best manage our lizard brain. 
+---
+created: 2021-06-05
+updated: 2024-01-19
+publish: true
+---
+# Peters
+
+#book #referencenote
+
+# Metadata 
+- Author: [[Dr Steven Peters]]
+- Publication date: 2012
+- date of reading: 
+
+# Summary
+An amazing book that simplifies the concepts of [[book - Think fast and slow]] in a fun and practical manner. 

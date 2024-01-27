@@ -2,7 +2,10 @@
 last-review: 2021-11-13
 publish: true
 tags: cur, finops
+created: 2021-11-07
+updated: 2024-01-19
 ---
+The CUR is now called the legacy cur and is succeded by [[the CUR 2.0 |CUR 2.0 - index]]
 
 ## AWS CUR File
 This section is about the AWS Cost and Usage Report. I find the CUR documentation incomplete; this is my attempt to contribute, by adding the content I would love to see. 

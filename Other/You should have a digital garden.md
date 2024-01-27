@@ -1,13 +1,11 @@
 ---
 publish: true
 created: 2022-12-17
-updated: 2022-12-17
+updated: 2024-01-24
 ---
-
-
 You should have a digital garden.  
   
-A digital garden is a place where to store your ideas, connections, and thoughts. A digital garden is a place to grow creativity to feed minds. As a real garden, most of the work and initial delights are for the gardener; with the hope that the never finished garden will be a place of relaxation and learning.  
+A digital garden is a place where to store your ideas, connections, and thoughts. A digital garden is a place to grow creativity and feed minds. As a real garden, most of the work and initial delights are for the gardener; with the hope that the never finished garden will be a place of relaxation and learning.  
   
 With my digital garden, I make my learning public and accessible for others to look at, expand and participate.  
   

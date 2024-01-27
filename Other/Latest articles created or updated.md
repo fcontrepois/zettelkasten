@@ -1,14 +1,14 @@
 ---
 created: 2021-11-04
-updated: 2023-12-20
+updated: 2024-01-27
 ---
-- 2023-12-20 at 18h50 · [[book - The Goal A Process of Ongoing Improvement]]
-- 2023-12-20 at 18h50 · [[zt - communication techniques]]
-- 2023-12-20 at 18h49 · [[zt - care is a core competency of any relationship]]
-- 2023-12-20 at 18h49 · [[zt - it is all invented]]
-- 2023-12-20 at 18h48 · [[Readme]]
-- 2023-12-20 at 17h51 · [[Mantra - Mission - Values]]
-- 2023-12-20 at 17h50 · [[What is a digital garden]]
-- 2023-12-20 at 17h49 · [[Start here]]
-- 2023-12-20 at 17h46 · [[topic - my core beliefs]]
-- 2023-12-20 at 17h18 · [[zt - flip the coin]]
+- 2024-01-27 at 11h04 · [[AWS Database Specialist preparation notes]]
+- 2024-01-26 at 09h38 · [[About me - index]]
+- 2024-01-24 at 20h57 · [[Readme]]
+- 2024-01-24 at 20h48 · [[You should have a digital garden]]
+- 2024-01-24 at 20h48 · [[Strategic Blue]]
+- 2024-01-19 at 10h35 · [[book - essentialism the disciplined pursuit of less]]
+- 2024-01-19 at 10h35 · [[book - the getting things done workbook]]
+- 2024-01-19 at 10h35 · [[David Allen]]
+- 2024-01-19 at 10h35 · [[Daniel Kahneman]]
+- 2024-01-19 at 10h35 · [[zt - how to check if you really understand a topic]]

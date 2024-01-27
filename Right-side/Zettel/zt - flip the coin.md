@@ -1,6 +1,6 @@
 ---
 created: 2021-06-05
-updated: 2023-12-20
+updated: 2023-12-21
 ---
 # Flip the coin
 

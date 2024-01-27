@@ -2,10 +2,9 @@
 tags: aboutme, index
 publish: true
 last-review: 2021-11-07
-created: 2022-12-10
-updated: 2022-12-20
+created: 2021-11-06
+updated: 2024-01-26
 ---
-
 Hello! Thank you for taking the time to read this digital garden and be curious about me. 
 
 ![[Red-glasses-profile.jpg|200]]

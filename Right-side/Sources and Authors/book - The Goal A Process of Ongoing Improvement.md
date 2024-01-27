@@ -1,7 +1,7 @@
 ---
 date updated: 2021-07-23T09:48:41+02:00
 created: 2021-07-23
-updated: 2023-12-20
+updated: 2023-12-21
 ---
 # The Goal: A Process of Ongoing Improvement
 
