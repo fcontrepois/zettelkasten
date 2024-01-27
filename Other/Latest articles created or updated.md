@@ -2,7 +2,7 @@
 created: 2021-11-04
 updated: 2024-01-27
 ---
-- 2024-01-27 at 11h04 · [[AWS Database Specialist preparation notes]]
+- 2024-01-27 at 11h37 · [[AWS Database Specialist preparation notes]]
 - 2024-01-26 at 09h38 · [[About me - index]]
 - 2024-01-24 at 20h57 · [[Readme]]
 - 2024-01-24 at 20h48 · [[You should have a digital garden]]

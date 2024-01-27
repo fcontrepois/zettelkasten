@@ -2,6 +2,9 @@
 created: 2024-01-23
 updated: 2024-01-27
 publish: true
+tags:
+  - aws
+  - certification
 ---
 This time all in one single big file. 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md",
+                "file": "Left-side/Data manipulation/Observable Plot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md",
+                "file": "Left-side/Data manipulation/Observable Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md",
+                "file": "Left-side/Data manipulation/Observable Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md"
+                "file": "Left-side/Data manipulation/Observable Plot.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Left-side/Certifications/AWS Database Specialist preparation notes.md"
+                "file": "Left-side/Data manipulation/Observable Plot.md"
               }
             }
           }
@@ -184,8 +184,14 @@
   },
   "active": "fb2284e6f9a817de",
   "lastOpenFiles": [
-    "About me/Mantra - Mission - Values.md",
+    "Left-side/Data manipulation/Observable - Index.md",
+    "Left-side/Certifications/AWS - Solution Architect Professional/AWS Application Discovery Service.md",
+    "Left-side/Certifications/AWS - Solution Architect Professional/AWS Application Discovery Agent.md",
+    "Left-side/Certifications/AWS - Solution Architect Professional/7Rs.md",
+    "Left-side/Certifications/AWS - Solution Architect Professional/Amazon Virtual Private Cloud (Amazon VPC).md",
+    "Left-side/Certifications/Google - Professional Cloud Architect/Anthos.md",
     "Left-side/Certifications/AWS Database Specialist preparation notes.md",
+    "About me/Mantra - Mission - Values.md",
     "Right-side/Zettel/zt - a leader s message.md",
     "Other/Updates/Announcements.md",
     "Other/Updates/Recent creations.md",
@@ -207,12 +213,6 @@
     "Right-side/Zettel/zt - how to check if you really understand a topic.md",
     "Right-side/Sources and Authors/Dr Steven Peters.md",
     "Right-side/Zettel/zt - we live in a world of fear for survival.md",
-    "Right-side/Zettel/zt - be proactive.md",
-    "Left-side/FinOps/AWS/Pricing/AWS Pricing API - study.md",
-    "Right-side/Sources and Authors/Dr. Steve Peters.md",
-    "Right-side/Topics/Topics - Index.md",
-    "Right-side/Sources and Authors/book - superforecasting - the art and science of prediction.md",
-    "Right-side/Zettel/zt - forecasts are not checked enough.md",
     "attachement/lamp only black background3.png",
     "attachement/favicon-32.png",
     "publish.js",
