@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Left-side/Data manipulation/Observable Plot.md",
+                "file": "Start here.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Left-side/Data manipulation/Observable Plot.md",
+                "file": "Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Left-side/Data manipulation/Observable Plot.md",
+                "file": "Start here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Left-side/Data manipulation/Observable Plot.md"
+                "file": "Start here.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Left-side/Data manipulation/Observable Plot.md"
+                "file": "Start here.md"
               }
             }
           }
@@ -184,6 +184,10 @@
   },
   "active": "fb2284e6f9a817de",
   "lastOpenFiles": [
+    "Left-side/Data manipulation/Observable Plot.md",
+    "attachement/Dont_Reply_All_Book_Cheat_Sheet.pdf",
+    "favicon.ico",
+    "attachement/Commitment scenario 1.xlsx",
     "Left-side/Data manipulation/Observable - Index.md",
     "Left-side/Certifications/AWS - Solution Architect Professional/AWS Application Discovery Service.md",
     "Left-side/Certifications/AWS - Solution Architect Professional/AWS Application Discovery Agent.md",
@@ -212,22 +216,18 @@
     "Right-side/Sources and Authors/book - The chimp paradox.md",
     "Right-side/Zettel/zt - how to check if you really understand a topic.md",
     "Right-side/Sources and Authors/Dr Steven Peters.md",
-    "Right-side/Zettel/zt - we live in a world of fear for survival.md",
     "attachement/lamp only black background3.png",
     "attachement/favicon-32.png",
     "publish.js",
     "publish copy.css",
     "publish.css",
-    "favicon.ico",
     "attachement/WardleyMaps-SimonWardley.mobi",
     "attachement/WardleyMaps-SimonWardley.epub",
     "attachement/Are AWS prices going up.png",
     "Are AWS prices going up.svg",
     "Left-side/Obsidian",
     "Left-side/Mechanical Keyboard",
-    "Blog",
     "attachement/IMG_4108.png",
-    "attachement/DungeonWorld_color.pdf",
     "attachement/IMG_4013.jpeg",
     "attachement/IMG_4017.jpeg"
   ]

@@ -1,0 +1,9 @@
+{
+  "renderNullAs": "\\-",
+  "warnOnEmptyResult": true,
+  "inlineQueryPrefix": "|",
+  "inlineJsQueryPrefix": "$=",
+  "refreshInterval": 1000,
+  "enableDataviewJs": true,
+  "schemaVersion": 1
+}

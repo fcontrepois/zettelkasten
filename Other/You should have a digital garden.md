@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2022-12-17
-updated: 2024-01-24
+updated: 2024-02-05
 ---
 You should have a digital garden.  
   

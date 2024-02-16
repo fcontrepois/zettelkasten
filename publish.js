@@ -8,3 +8,4 @@ wrapper.href = 'https://zt.frankcontrepois.com/'
 obsidianLogo.parentNode.insertBefore(wrapper, obsidianLogo);
 // move el into wrapper
 wrapper.appendChild(obsidianLogo);
+
