@@ -24,9 +24,12 @@
             "id": "5687bfce80c1135d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Right-side/Zettel/zt - sun list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -60,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Left-side/FinOps/AWS/CUR 2.0/CUR 2.0 - index.md",
+                "file": "Right-side/Zettel/zt - sun list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Left-side/FinOps/AWS/CUR 2.0/CUR 2.0 - index.md",
+                "file": "Right-side/Zettel/zt - sun list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Left-side/FinOps/AWS/CUR 2.0/CUR 2.0 - index.md"
+                "file": "Right-side/Zettel/zt - sun list.md"
               }
             }
           },
@@ -172,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Left-side/FinOps/AWS/CUR 2.0/CUR 2.0 - index.md"
+                "file": "Right-side/Zettel/zt - sun list.md"
               }
             }
           }

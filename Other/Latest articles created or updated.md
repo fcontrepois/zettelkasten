@@ -1,7 +1,8 @@
 ---
 created: 2021-11-04
-updated: 2024-02-16
+updated: 2024-03-14
 ---
+- 2024-03-14 at 20h21 · [[zt - sun list]]
 - 2024-02-16 at 10h59 · [[Start here]]
 - 2024-02-05 at 14h49 · [[About me - index]]
 - 2024-02-05 at 14h49 · [[Readme]]
@@ -11,4 +12,3 @@ updated: 2024-02-16
 - 2024-01-19 at 10h35 · [[book - essentialism the disciplined pursuit of less]]
 - 2024-01-19 at 10h35 · [[book - the getting things done workbook]]
 - 2024-01-19 at 10h35 · [[David Allen]]
-- 2024-01-19 at 10h35 · [[Daniel Kahneman]]
