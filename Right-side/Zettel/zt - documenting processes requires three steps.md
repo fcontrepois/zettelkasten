@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2023-08-08
-updated: 2023-08-08
+updated: 2024-03-24
 ---
 
 # Documenting processes requires three steps
@@ -19,7 +19,7 @@ updated: 2023-08-08
 ## Relevant notes
 
 ## Notes
-To document new processes or anything new you need three documents
+To document new processes or anything new you need three documents:
 
 1. How to do the thing the first time
 2. How to do the thing the following times

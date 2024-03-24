@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Left-side/FinOps/AWS/CUR 2.0/CUR 2.0 - index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5687bfce80c1135d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Right-side/Zettel/zt - sun list.md",
+                "file": "Right-side/Zettel/zt - documenting processes requires three steps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Right-side/Zettel/zt - sun list.md",
+                "file": "Right-side/Zettel/zt - documenting processes requires three steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Right-side/Zettel/zt - sun list.md",
+                "file": "Right-side/Zettel/zt - documenting processes requires three steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Right-side/Zettel/zt - sun list.md"
+                "file": "Right-side/Zettel/zt - documenting processes requires three steps.md"
               }
             }
           },
@@ -176,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Right-side/Zettel/zt - sun list.md"
+                "file": "Right-side/Zettel/zt - documenting processes requires three steps.md"
               }
             }
           }
@@ -196,8 +181,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5687bfce80c1135d",
+  "active": "fb2284e6f9a817de",
   "lastOpenFiles": [
+    "Right-side/Zettel/zt - doers and protector of doers.md",
+    "Right-side/Zettel/zt - don’t think too much.md",
+    "Right-side/Zettel/zt - diplomacy is needed to work with the powerful.md",
+    "Right-side/Zettel/zt - creating groups that care.md",
+    "Right-side/Zettel/zt - common biases about simplification initiatives.md",
+    "Right-side/Zettel/zt - chief simplification officer.md",
+    "Right-side/Zettel/zt - chain linked systems.md",
+    "Right-side/Zettel/zt - care is a core competency of any relationship.md",
+    "Left-side/FinOps/AWS/CUR 2.0/CUR 2.0 - index.md",
+    "Right-side/Zettel/zt - sun list.md",
     "Start here.md",
     "Left-side/Data manipulation/Observable Plot.md",
     "attachement/Dont_Reply_All_Book_Cheat_Sheet.pdf",
@@ -220,16 +215,6 @@
     "attachement/42938004_s.jpg",
     "attachement/36171465_s.jpg",
     "Readme.md",
-    "Right-side/Right side of the brain index.md",
-    "Other/Strategic Blue.md",
-    "Other/What is a digital garden.md",
-    "Other/You should have a digital garden.md",
-    "Other/Latest articles created or updated.md",
-    "Other/Do you want to start your own Zettelkasten.md",
-    "Other/Keep updated.md",
-    "Right-side/Sources and Authors/book - The chimp paradox.md",
-    "Right-side/Zettel/zt - how to check if you really understand a topic.md",
-    "Right-side/Sources and Authors/Dr Steven Peters.md",
     "attachement/lamp only black background3.png",
     "attachement/favicon-32.png",
     "publish.js",
