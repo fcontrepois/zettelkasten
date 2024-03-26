@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4641984f4bbee48b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +192,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fb2284e6f9a817de",
+  "active": "4641984f4bbee48b",
   "lastOpenFiles": [
     "Right-side/Zettel/zt - doers and protector of doers.md",
     "Right-side/Zettel/zt - don’t think too much.md",
